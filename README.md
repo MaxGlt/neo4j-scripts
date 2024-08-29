@@ -20,8 +20,8 @@ Ce projet contient des scripts PowerShell organisés en deux catégories princip
 Ce répertoire contient des scripts liés à la gestion des modules IIS :
 
 - Add-EnableModule.ps1 : Ajoute un nouveau module IIS sur le serveur s'il n'est pas déjà présent.
-- DisableIISModule.ps1 : Active un module IIS existant, le rendant disponible pour utilisation.
-- EnableIISModule.ps1 : Désactive un module IIS, l'empêchant d'être utilisé sans le supprimer du serveur.
+- DisableIISModule.ps1 : Désactive un module IIS, l'empêchant d'être utilisé sans le supprimer du serveur.
+- EnableIISModule.ps1 : Active un module IIS existant, le rendant disponible pour utilisation.
 
 ### IIS_Rules
 Ce répertoire contient des scripts pour gérer les règles IIS :
