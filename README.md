@@ -33,6 +33,6 @@ Ce répertoire contient des scripts pour gérer les règles IIS :
 ## Prérequis
 Avant d'utiliser ces scripts, assurez-vous que les éléments suivants sont en place :
 
-PowerShell : Installé et accessible.
-Module WebAdministration : Nécessaire pour la gestion IIS.
-IIS : La machine cible doit avoir IIS installé et en cours d'exécution.
+- PowerShell : Installé et accessible.
+- Module WebAdministration : Nécessaire pour la gestion IIS.
+- IIS : La machine cible doit avoir IIS installé et en cours d'exécution.
