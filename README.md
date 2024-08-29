@@ -36,3 +36,9 @@ Avant d'utiliser ces scripts, assurez-vous que les éléments suivants sont en p
 - PowerShell : Installé et accessible.
 - Module WebAdministration : Nécessaire pour la gestion IIS.
 - IIS : La machine cible doit avoir IIS installé et en cours d'exécution.
+
+## Contribution
+Les contributions sont les bienvenues ! Si vous avez des suggestions, des améliorations ou des rapports de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+
+## Licence
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
